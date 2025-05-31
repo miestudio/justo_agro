@@ -1,0 +1,201 @@
+id;name;year;coffee_variety;ranking;price;kg;region;altitude_m;tasting_notes;carbon_coeff;payment_methods
+1;Luz Albani Suarez;2024;Typica;89.76;139.03;40.78;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+2;Camilo Sierra;2024;Cenicafe 1;89.69;133.54;69.25;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+3;Nancy Mosquera;2022;Tabi;85.97;81.77;59.99;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+4;Luz Albani Suarez;2022;Catiope;89.25;114.66;42.16;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+5;Maria Fernanda Ortiz;2024;Tabi;89.09;60.5;58.49;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+6;Jose Martinez;2024;Tabi;89.42;9.12;69.28;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+7;Luis Alberto Gomez;2023;Pacamara;89.83;106.0;59.32;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+8;Jose Martinez;2024;Castillo;84.38;47.46;62.76;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+9;Darlin Avila;2023;Tabi;85.76;110.56;68.59;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+10;Camilo Sierra;2023;Castillo;85.64;37.47;47.73;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+11;Paola Rincon;2022;Tabi;90.88;95.68;35.69;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+12;Nancy Mosquera;2023;Geisha;87.47;17.65;63.27;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+13;Domingo Torres;2022;Colombia Supremo;88.9;69.15;65.72;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+14;Axel Tveten;2022;Caturra;84.1;142.13;46.76;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+15;Jose Martinez;2023;Bourbon Rosado;88.36;49.52;59.69;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+16;Luis Alberto Gomez;2022;Catiope;86.27;50.62;59.17;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+17;Luis Alberto Gomez;2022;Typica;84.75;64.83;62.98;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+18;Laura Yepes;2022;Caturra;85.18;44.61;64.73;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+19;Wilton Benitez;2022;Cenicafe 1;84.8;119.44;30.18;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+20;Darlin Avila;2024;Colombia Supremo;88.55;116.57;40.41;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+21;Luz Albani Suarez;2024;Colombia Supremo;89.94;149.68;48.02;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+22;Wilton Benitez;2022;Pacamara;89.49;87.66;43.88;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+23;Jose Martinez;2023;Tabi;84.12;96.87;69.82;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+24;Domingo Torres;2022;Colombia Supremo;85.21;12.85;36.99;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+25;Darlin Avila;2022;Castillo;86.86;139.65;69.78;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+26;Martha Cecilia Camacho;2024;Cenicafe 1;87.02;101.94;49.21;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+27;Luis Alberto Gomez;2023;Geisha;87.03;77.04;61.73;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+28;Carlos Rojas;2024;Typica;89.43;25.97;46.22;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+29;Diego Trochez;2022;Catiope;84.7;112.76;61.99;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+30;Domingo Torres;2024;Colombia Supremo;86.74;40.44;51.64;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+31;Martha Cecilia Camacho;2023;Cenicafe 1;90.24;59.22;57.57;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+32;Diego Trochez;2023;Pacamara;85.0;106.81;36.33;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+33;Martha Cecilia Camacho;2023;Pacamara;87.47;42.56;67.24;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+34;Laura Yepes;2022;Castillo;86.47;32.43;61.72;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+35;Martha Cecilia Camacho;2024;Caturra;86.45;45.27;42.42;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+36;Martha Cecilia Camacho;2023;Geisha;84.15;39.22;39.66;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+37;Camilo Sierra;2024;Castillo;85.61;16.26;41.58;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+38;Axel Tveten;2022;Geisha;84.6;136.53;63.41;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+39;Axel Tveten;2024;Geisha;85.44;51.42;53.71;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+40;Maria Fernanda Ortiz;2024;Caturra;90.89;16.41;48.32;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+41;Luz Albani Suarez;2024;Catiope;85.79;110.1;61.34;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+42;Axel Tveten;2023;Typica;86.19;89.68;65.56;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+43;Maria Fernanda Ortiz;2024;Cenicafe 1;84.22;58.71;53.87;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+44;Nancy Mosquera;2024;Caturra;85.68;14.07;38.88;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+45;Maria Fernanda Ortiz;2023;Geisha;90.49;103.88;67.25;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+46;Axel Tveten;2024;Cenicafe 1;85.53;142.6;40.75;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+47;Diego Trochez;2024;Tabi;88.14;46.98;63.46;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+48;Darlin Avila;2023;Typica;89.03;19.0;58.23;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+49;Jose Martinez;2022;Caturra;87.72;54.7;60.8;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+50;Domingo Torres;2022;Pacamara;89.03;5.34;60.85;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+51;Wilton Benitez;2023;Typica;88.3;71.32;67.99;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+52;Nancy Mosquera;2024;Colombia Supremo;89.48;28.55;68.63;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+53;Wilton Benitez;2024;Colombia Supremo;86.98;125.78;33.04;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+54;Diego Trochez;2022;Pacamara;90.46;27.72;30.77;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+55;Darlin Avila;2023;Typica;89.01;98.0;59.04;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+56;Camilo Sierra;2022;Catiope;90.99;75.98;47.77;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+57;Jose Martinez;2023;Typica;87.44;146.0;67.94;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+58;Maria Fernanda Ortiz;2022;Caturra;87.87;145.65;36.36;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+59;Luz Albani Suarez;2022;Caturra;90.23;141.92;42.12;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+60;Laura Yepes;2024;Typica;87.76;129.82;52.87;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+61;Nancy Mosquera;2023;Cenicafe 1;88.53;126.4;33.77;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+62;Ana Maria Valencia;2022;Tabi;84.82;116.89;69.18;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+63;Luz Albani Suarez;2024;Tabi;89.71;84.37;50.37;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+64;Luis Alberto Gomez;2024;Castillo;84.15;121.95;63.32;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+65;Darlin Avila;2023;Typica;88.69;109.88;50.36;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+66;Camilo Sierra;2023;Typica;90.02;21.02;33.27;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+67;Ana Maria Valencia;2023;Caturra;86.78;118.81;58.88;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+68;Camilo Sierra;2022;Catiope;84.2;42.5;42.7;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+69;Camilo Sierra;2022;Typica;86.0;38.97;58.38;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+70;Jose Martinez;2022;Cenicafe 1;86.45;108.34;33.54;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+71;Axel Tveten;2023;Castillo;90.21;81.13;61.26;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+72;Martha Cecilia Camacho;2024;Catiope;88.09;95.23;47.78;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+73;Nancy Mosquera;2022;Typica;85.7;73.71;52.61;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+74;Carlos Rojas;2024;Colombia Supremo;88.53;125.84;38.74;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+75;Jose Martinez;2023;Catiope;90.46;38.58;66.26;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+76;Axel Tveten;2024;Colombia Supremo;90.87;95.57;50.85;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+77;Ana Maria Valencia;2024;Colombia Supremo;90.26;25.89;31.83;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+78;Ana Maria Valencia;2024;Cenicafe 1;88.05;70.6;58.84;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+79;Maria Fernanda Ortiz;2023;Tabi;88.8;66.92;34.4;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+80;Axel Tveten;2022;Tabi;88.99;9.1;50.25;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+81;Carlos Rojas;2022;Cenicafe 1;86.1;26.51;59.25;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+82;Maria Fernanda Ortiz;2022;Tabi;88.94;134.31;52.55;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+83;Maria Fernanda Ortiz;2022;Cenicafe 1;87.99;12.48;37.23;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+84;Paola Rincon;2023;Cenicafe 1;87.43;64.47;66.5;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+85;Wilton Benitez;2023;Geisha;85.77;16.83;49.27;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+86;Diego Trochez;2022;Catiope;84.43;57.16;63.07;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+87;Domingo Torres;2022;Caturra;87.11;100.76;43.3;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+88;Domingo Torres;2023;Catiope;89.07;55.05;60.83;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+89;Maria Fernanda Ortiz;2023;Colombia Supremo;90.11;73.91;38.93;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+90;Jose Martinez;2022;Tabi;86.9;50.31;65.87;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+91;Maria Fernanda Ortiz;2023;Cenicafe 1;84.58;105.12;39.78;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+92;Ana Maria Valencia;2022;Tabi;88.87;146.43;54.26;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+93;Ana Maria Valencia;2024;Bourbon Rosado;88.32;137.33;30.28;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+94;Ana Maria Valencia;2022;Caturra;89.02;35.58;59.7;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+95;Wilton Benitez;2024;Castillo;89.27;45.89;31.22;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+96;Luis Alberto Gomez;2023;Cenicafe 1;84.42;69.74;38.99;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+97;Martha Cecilia Camacho;2022;Tabi;89.23;44.02;54.14;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+98;Carlos Rojas;2022;Colombia Supremo;90.68;86.0;34.63;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+99;Axel Tveten;2024;Tabi;84.89;111.49;59.41;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+100;Martha Cecilia Camacho;2022;Geisha;88.57;49.97;50.45;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+101;Paola Rincon;2022;Colombia Supremo;85.5;128.52;35.49;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+102;Laura Yepes;2024;Cenicafe 1;90.91;98.12;57.02;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+103;Carlos Rojas;2022;Caturra;87.01;43.7;46.45;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+104;Luz Albani Suarez;2024;Bourbon Rosado;86.66;142.82;43.67;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+105;Martha Cecilia Camacho;2024;Cenicafe 1;88.53;139.58;53.52;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+106;Jose Martinez;2023;Colombia Supremo;86.64;80.58;64.32;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+107;Luis Alberto Gomez;2023;Pacamara;88.25;89.06;58.36;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+108;Laura Yepes;2022;Colombia Supremo;86.31;149.74;62.46;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+109;Axel Tveten;2024;Typica;87.99;95.65;38.88;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+110;Camilo Sierra;2022;Castillo;85.41;145.99;39.86;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+111;Laura Yepes;2022;Castillo;89.9;77.22;41.11;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+112;Martha Cecilia Camacho;2024;Tabi;86.61;120.99;35.43;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+113;Axel Tveten;2024;Tabi;86.16;104.33;52.22;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+114;Camilo Sierra;2023;Typica;85.91;125.15;45.26;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+115;Diego Trochez;2023;Typica;86.74;62.62;55.86;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+116;Wilton Benitez;2023;Typica;87.23;22.82;43.64;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+117;Jose Martinez;2022;Caturra;85.5;105.79;32.35;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+118;Carlos Rojas;2023;Cenicafe 1;89.53;24.4;60.5;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+119;Axel Tveten;2024;Bourbon Rosado;86.9;63.57;54.84;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+120;Wilton Benitez;2024;Typica;87.73;36.53;62.28;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+121;Laura Yepes;2024;Colombia Supremo;90.03;19.31;33.65;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+122;Wilton Benitez;2022;Pacamara;87.29;6.64;63.94;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+123;Maria Fernanda Ortiz;2022;Castillo;85.42;32.06;33.15;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+124;Nancy Mosquera;2022;Cenicafe 1;84.16;79.49;36.03;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+125;Nancy Mosquera;2022;Geisha;84.28;118.56;52.56;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+126;Carlos Rojas;2023;Caturra;89.9;128.85;30.41;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+127;Domingo Torres;2022;Geisha;85.27;132.98;37.6;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+128;Laura Yepes;2023;Typica;90.83;5.49;55.74;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+129;Axel Tveten;2024;Caturra;84.54;87.3;53.69;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+130;Jose Martinez;2023;Castillo;89.08;106.71;54.0;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+131;Paola Rincon;2024;Colombia Supremo;84.43;124.3;59.12;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+132;Camilo Sierra;2023;Typica;87.78;120.46;54.19;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+133;Domingo Torres;2022;Geisha;85.31;132.39;58.88;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+134;Carlos Rojas;2024;Bourbon Rosado;85.46;85.76;49.13;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+135;Maria Fernanda Ortiz;2022;Geisha;85.17;139.04;42.56;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+136;Ana Maria Valencia;2023;Typica;88.27;107.77;68.51;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+137;Laura Yepes;2023;Pacamara;85.67;83.1;31.88;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+138;Jose Martinez;2024;Geisha;85.77;97.88;63.58;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+139;Paola Rincon;2023;Castillo;86.24;137.68;42.45;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+140;Maria Fernanda Ortiz;2023;Colombia Supremo;85.46;97.55;58.57;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+141;Carlos Rojas;2022;Catiope;90.61;142.82;42.18;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+142;Luz Albani Suarez;2024;Geisha;87.62;124.45;67.19;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+143;Paola Rincon;2022;Castillo;88.99;42.94;46.18;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+144;Domingo Torres;2023;Geisha;86.11;108.43;33.33;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+145;Nancy Mosquera;2023;Cenicafe 1;88.61;123.16;53.5;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+146;Domingo Torres;2023;Catiope;86.0;117.43;46.29;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+147;Martha Cecilia Camacho;2024;Geisha;84.03;138.07;68.57;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+148;Jose Martinez;2023;Catiope;85.74;42.56;38.61;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+149;Luz Albani Suarez;2022;Pacamara;88.48;79.55;58.41;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+150;Laura Yepes;2024;Caturra;90.65;49.51;54.98;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+151;Luis Alberto Gomez;2024;Pacamara;85.94;88.83;43.33;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+152;Martha Cecilia Camacho;2023;Geisha;84.72;120.84;46.71;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+153;Camilo Sierra;2022;Caturra;90.95;148.82;60.06;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+154;Jose Martinez;2022;Bourbon Rosado;84.68;83.6;31.65;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+155;Ana Maria Valencia;2023;Geisha;90.2;70.6;62.34;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+156;Laura Yepes;2022;Tabi;86.72;85.17;64.66;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+157;Darlin Avila;2024;Cenicafe 1;88.45;92.26;36.29;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+158;Carlos Rojas;2024;Typica;85.62;8.82;43.31;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+159;Carlos Rojas;2022;Pacamara;89.61;79.29;51.33;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+160;Ana Maria Valencia;2024;Caturra;89.91;138.63;41.96;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+161;Axel Tveten;2024;Geisha;86.52;82.04;53.04;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+162;Luis Alberto Gomez;2022;Castillo;86.64;38.78;33.17;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+163;Laura Yepes;2024;Caturra;86.41;88.43;56.69;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+164;Nancy Mosquera;2022;Catiope;90.73;141.77;56.78;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+165;Luis Alberto Gomez;2022;Castillo;90.51;28.25;35.84;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+166;Darlin Avila;2023;Pacamara;86.43;99.73;44.84;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+167;Camilo Sierra;2022;Caturra;89.8;106.12;48.34;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+168;Luis Alberto Gomez;2023;Caturra;85.77;84.62;30.54;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+169;Wilton Benitez;2023;Geisha;90.2;77.9;35.85;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+170;Luis Alberto Gomez;2024;Geisha;89.15;44.26;54.51;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+171;Luis Alberto Gomez;2024;Tabi;85.55;5.31;67.8;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+172;Axel Tveten;2022;Geisha;87.23;98.32;39.64;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+173;Luis Alberto Gomez;2022;Castillo;84.21;39.28;37.73;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+174;Wilton Benitez;2024;Tabi;89.25;118.46;39.53;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+175;Luz Albani Suarez;2023;Caturra;89.98;101.58;69.28;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+176;Nancy Mosquera;2022;Bourbon Rosado;88.85;28.06;43.61;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+177;Laura Yepes;2024;Geisha;89.41;133.26;64.6;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+178;Nancy Mosquera;2023;Geisha;89.13;20.08;38.97;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+179;Carlos Rojas;2022;Tabi;85.9;94.93;66.42;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+180;Carlos Rojas;2022;Cenicafe 1;89.04;25.86;69.13;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+181;Jose Martinez;2023;Castillo;89.31;139.02;63.6;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+182;Darlin Avila;2024;Cenicafe 1;90.32;65.62;34.21;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+183;Luz Albani Suarez;2023;Caturra;89.74;72.41;37.96;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+184;Domingo Torres;2022;Typica;86.69;24.38;42.59;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+185;Luis Alberto Gomez;2024;Bourbon Rosado;85.42;7.4;35.8;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+186;Axel Tveten;2024;Tabi;84.53;112.08;31.06;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+187;Luis Alberto Gomez;2023;Castillo;85.37;149.4;43.35;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+188;Diego Trochez;2022;Bourbon Rosado;89.21;23.5;45.83;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+189;Domingo Torres;2024;Colombia Supremo;86.25;13.9;63.95;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+190;Jose Martinez;2022;Cenicafe 1;89.86;31.39;56.01;Antioquia;1600.0;Chocolate, frutos rojos;0.6;bonos de carbono
+191;Camilo Sierra;2024;Typica;86.8;149.08;38.99;Huila;1500.0;Floral, citrico;0.5;bonos de carbono
+192;Axel Tveten;2024;Tabi;84.56;21.01;67.62;Narino;1700.0;Citrico, flores;0.55;bonos de carbono
+193;Domingo Torres;2024;Catiope;90.45;121.87;66.08;Cauca;1650.0;Chocolate, nueces;0.58;bonos de carbono
+194;Luis Alberto Gomez;2023;Bourbon Rosado;86.69;137.84;67.97;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+195;Ana Maria Valencia;2022;Pacamara;85.76;21.65;50.96;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+196;Luis Alberto Gomez;2023;Caturra;86.06;40.52;56.06;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+197;Luz Albani Suarez;2023;Geisha;85.18;112.38;64.05;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+198;Martha Cecilia Camacho;2023;Caturra;90.23;74.94;35.33;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+199;Paola Rincon;2023;Pacamara;88.07;113.78;30.86;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
+200;Laura Yepes;2024;Caturra;90.23;36.46;32.08;Otras regiones;1400.0;Notas diversas;0.45;bonos de carbono
